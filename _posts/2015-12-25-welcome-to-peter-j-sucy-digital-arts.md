@@ -6,22 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T22:10:09.305Z'
-dateModified: '2015-12-25T22:09:24.534Z'
+datePublished: '2015-12-25T22:30:39.384Z'
+dateModified: '2015-12-25T22:29:17.528Z'
 title: Welcome to Peter J. Sucy Digital Arts
 author: []
+sourcePath: _posts/2015-12-25-welcome-to-peter-j-sucy-digital-arts.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-25-welcome-to-peter-j-sucy-digital-arts.md
-published: true
 url: welcome-to-peter-j-sucy-digital-arts/index.html
 _type: Article
 
 ---
+Welcome to Peter J. Sucy Digital Arts
 ![Looking west towards the Longfellow Mountain range from a place called "Height of Land" on Route 17.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e43550c-aba4-48b0-81c9-396b8ece532e.jpg)
 
 Welcome to My Photography Site

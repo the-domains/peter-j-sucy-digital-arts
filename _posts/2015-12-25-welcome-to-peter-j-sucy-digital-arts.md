@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-26T20:44:48.583Z'
-dateModified: '2015-12-26T20:44:02.404Z'
-title: Welcome to Peter J. Sucy Digital Arts
+description: 'Collection of photos from Oct 2015 trip to Utah. Major National Parks visited include, Arches, Bryce, Canyonlands, Capitol Reef, Escalante, Grand Canyon, and Zion.'
+datePublished: '2015-12-26T20:49:36.567Z'
+dateModified: '2015-12-26T20:49:22.288Z'
+title: UTAH PHOTOS
 author: []
 sourcePath: _posts/2015-12-25-welcome-to-peter-j-sucy-digital-arts.md
 published: true
